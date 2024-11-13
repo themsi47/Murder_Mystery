@@ -1,6 +1,6 @@
 # Murder Mystery - Themsi Patel 
 
-Murder Mystery is an engaging text-based adventure game where players solve a thrilling murder case.
+Murder Mystery is an engaging text-based adventure game where players solve a thrilling murder case. Murder Mystery is an immersive murder mystery game where players take on the roles of detectives tasked with solving a chilling crime. Set in a lavish mansion during a stormy night, players must gather clues, interrogate suspects, and piece together the evidence to unveil the murderer before time runs out.
 
 ## Installation
 
@@ -8,7 +8,6 @@ Python 3.8 or higher is needed to play this game. [Download Python](https://www.
 
 ## Run the Program
 
-python
 python murder_mystery.py
 
 
