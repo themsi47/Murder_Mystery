@@ -8,9 +8,9 @@ Python 3.8 or higher is needed to play this game. [Download Python](https://www.
 
 ## Run the Program
 
-''' python
+python
 python murder_mystery.py
-'''
+
 
 ## Contributions
 
